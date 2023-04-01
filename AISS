@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Sentinel Solutions</title>
+  <!-- Add your custom CSS or a CSS framework like Bootstrap here -->
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="industries.html">Industries</a>
+      <a href="resources.html">Resources</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    <section>
+      <h1>Welcome to AI Sentinel Solutions</h1>
+      <p>Your trusted partner for AI risk management and security.</p>
+    </section>
+
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li>AI Risk Assessment</li>
+        <li>AI Risk Mitigation</li>
+        <li>AI Security Auditing</li>
+        <li>AI Policy Development</li>
+        <li>AI Education and Training</li>
+        <li>AI Research and Development</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Industries We Serve</h2>
+      <ul>
+        <li>Government</li>
+        <li>Corporations</li>
+        <li>Non-profits</li>
+        <li>Education</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; AI Sentinel Solutions. All rights reserved.</p>
+  </footer>
+</body>
+</html>
